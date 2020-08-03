@@ -1,5 +1,10 @@
 ### Привет, меня зовут Бахтияр и я разработчик.
 
+- 📍 Нахожусь в городе [Нур-Султан](https://www.google.com/maps/place/%D0%9D%D1%83%D1%80-%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD)
+- ⌚ Занимаюсь разработкой фуллтайм
+- 🎓 Обучаю студентов в [Академии шаг](https://astana.itstep.org/)
+- 🔮 Планирую выучить язык Elixir
+
 ### Языки и инструменты:
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" width="26px" src="https://github.com/dart-lang/site-shared/raw/master/src/_assets/image/flutter/icon/64.png" />
