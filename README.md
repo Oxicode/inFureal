@@ -25,8 +25,8 @@
 <br />
 
 #### Статистика:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inFureal)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Моя статистика](https://github-readme-stats.vercel.app/api?username=inFureal&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Репозитории:
