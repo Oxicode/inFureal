@@ -33,4 +33,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=infureal&repo=php-stringable)](https://github.com/infureal/php-stringable)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=infureal&repo=artisan-gui)](https://github.com/infureal/php-stringable)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=infureal&repo=artisan-gui)](https://github.com/infureal/artisan-gui)
